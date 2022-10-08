@@ -1,4 +1,4 @@
-baseURL = "https://tembofy.github.io"
+baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en-gb"
 title = "Bernard Tembo, PhD"
